@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpfuncs.a CMakeFiles/pfuncs.dir/def/functions.cpp.o CMakeFiles/pfuncs.dir/src/processes.cpp.o
+/usr/bin/ranlib libpfuncs.a

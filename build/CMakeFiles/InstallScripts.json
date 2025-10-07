@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/ender/programs/sdl_template/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
