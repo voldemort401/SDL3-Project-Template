@@ -15,3 +15,6 @@ void processes::physics(double delta, SDL_Window* window, SDL_Renderer* renderer
 void processes::input(double delta, SDL_Event ev){
   return;
 };
+
+/* side note: the reason why i am putting in the function that bascially dont do anything 
+   because the compiler freaks out if i dont do it*/
