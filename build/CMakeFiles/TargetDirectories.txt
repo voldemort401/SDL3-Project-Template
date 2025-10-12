@@ -1,3 +1,0 @@
-/home/ender/programs/sdl_template/build/CMakeFiles/EXECUTABLE_NAME.dir
-/home/ender/programs/sdl_template/build/CMakeFiles/edit_cache.dir
-/home/ender/programs/sdl_template/build/CMakeFiles/rebuild_cache.dir

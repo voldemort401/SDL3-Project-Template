@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/EXECUTABLE_NAME.dir/link.d CMakeFiles/EXECUTABLE_NAME.dir/src/main.cpp.o CMakeFiles/EXECUTABLE_NAME.dir/def/functions.cpp.o CMakeFiles/EXECUTABLE_NAME.dir/src/processes.cpp.o -o EXECUTABLE_NAME  -lSDL3
