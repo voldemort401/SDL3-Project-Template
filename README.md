@@ -11,10 +11,12 @@ CMakeLists.txt
 add_executable(EXECUTABLE_NAME src/main.cpp def/functions.cpp src/processes.cpp)
 
 ```
-After that to compile just:
+After that to compile for the first time just:
 
 ``` bash
+$ mkdir build/
 $ cd build/
+$ cmake ..
 $ make
 ```
 
@@ -40,3 +42,4 @@ void processes::input(double delta, SDL_Event ev)
 ```
 
 In the repo the `processes.cpp` just contains code to just render a circle with radius 4.
+
